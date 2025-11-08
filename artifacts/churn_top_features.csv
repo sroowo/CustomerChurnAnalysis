@@ -1,0 +1,21 @@
+feature,importance
+Contract_Two year,0.7868870803790378
+Contract_Month-to-month,0.6963976851039899
+PaymentMethod_Electronic check,0.5742622776752249
+PaymentMethod_Mailed check,0.33149497831380037
+InternetService_Fiber optic,0.31764984045896166
+InternetService_DSL,0.23580775196004505
+InternetService_No,0.22915359943754318
+PaymentMethod_Bank transfer (automatic),0.22462794930279187
+PaperlessBilling_No,0.1851144952022367
+MonthlyCharges,0.17781599031459727
+PaymentMethod_Credit card (automatic),0.16545086099725423
+Dependents_Yes,0.15339554241551273
+SeniorCitizen,0.15200039657122502
+Partner_Yes,0.12865271106510714
+gender_Female,0.12124699908213507
+StreamingTV_No internet service,0.11730266746377932
+OnlineBackup_Yes,0.1155303008267875
+PhoneService_No,0.11533829861305174
+MultipleLines_No phone service,0.10171309058250912
+StreamingMovies_Yes,0.0981068309681485
