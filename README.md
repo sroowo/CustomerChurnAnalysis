@@ -101,12 +101,6 @@ A Tableau dashboard visualizing churn distribution and customer behavior can be 
 
 ---
 
-## 💼 Author
-**Hemal Sri V**  
-🎓 B.Tech – Computer Science (Data Science Specialization)  
-📍 Data Analytics & Machine Learning Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/hemalsri/) | [GitHub](https://github.com/sroowo)
-
 ---
 
 ## 🏷 Keywords
