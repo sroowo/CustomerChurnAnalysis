@@ -84,22 +84,6 @@ python src/train_churn.py --data data/churn_dataset.csv --out artifacts
 
 ---
 
-## 🖼 Example EDA Visuals
-*(Add screenshots later)*  
-- Churn Rate by Contract Type  
-- Monthly Charges vs Churn (Boxplot)  
-- Tenure vs Churn Probability (Scatterplot)  
-- Correlation Heatmap  
-
----
-
-## 📊 Dashboard *(Optional)*
-A Tableau dashboard visualizing churn distribution and customer behavior can be built using  
-`artifacts/churn_predictions.csv`.
-
-> Coming soon: [Tableau Dashboard Link](#)
-
----
 
 ---
 
